@@ -1,0 +1,45 @@
+Package: darch
+Version: 0.22.0-1
+Architecture: amd64
+Maintainer: Paul Knopf <pauldotknopf@gmail.com>
+Installed-Size: 13297
+Depends: libc6 (>= 2.3.2), darch-containerd
+Priority: optional
+Section: devel
+Filename: pool/main/d/darch/darch_0.22.0-1_amd64.deb
+Size: 3502456
+SHA256: 9c305a1577e01ef662d7890271a1889e37832548a428a702df20baf6376f97c6
+SHA1: 1ba07eba38f27d169c9096c06965af5eceedefce
+MD5sum: 81c17fe42eab511ef24a101faf8144c2
+Description: A tool for building and booting stateless and immutable images, bare metal.
+
+Package: darch-containerd
+Version: 1.2.0-1
+Architecture: amd64
+Maintainer: Paul Knopf <pauldotknopf@gmail.com>
+Installed-Size: 90618
+Depends: libc6 (>= 2.3.2), libseccomp2 (>= 2.1.0), darch-runc
+Priority: optional
+Section: devel
+Filename: pool/main/d/darch-containerd/darch-containerd_1.2.0-1_amd64.deb
+Size: 19354644
+SHA256: bb0f03e79bace1c36064a5be705d3a9fdae9ef073fb4e03ee1862f3e1fd36af9
+SHA1: 1ee06acba5aa532931c5b3820ce797fc643b9dc7
+MD5sum: 8635142abe5eab7d31be938ea8646ab9
+Description: An open and reliable container runtime.
+
+Package: darch-runc
+Version: 1.0.0~rc5-1
+Architecture: amd64
+Maintainer: Paul Knopf <pauldotknopf@gmail.com>
+Installed-Size: 7393
+Depends: libc6 (>= 2.14), libseccomp2 (>= 2.3.0)
+Priority: optional
+Section: devel
+Filename: pool/main/d/darch-runc/darch-runc_1.0.0~rc5-1_amd64.deb
+Size: 1741144
+SHA256: d118fcca5135cf3dc26265260767c862daca20f4e550be9bc3d2697ef9aec2af
+SHA1: 8ddad43319d2d21b05d57841bec8848e6777be6b
+MD5sum: 54880bee3fc8f452ce960418eb936dc3
+Description: A CLI tool for spawning and running containers according to the OCI specification.
+

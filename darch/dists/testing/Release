@@ -1,0 +1,20 @@
+Origin: Darch
+Label: Darch Github
+Suite: unstable
+Codename: testing
+Date: Fri, 26 Oct 2018 18:18:10 UTC
+Architectures: amd64
+Components: main
+Description: Darch, a tool for building and booting stateless and immutable images, bare metal.
+MD5Sum:
+ 57c2797c0e1951ada9263d589ce7a10f 1603 main/binary-amd64/Packages
+ b5158ff5839c35d88a784791a5770aeb 743 main/binary-amd64/Packages.gz
+ 2d7a177079d1a968d840ffd254dff8f0 184 main/binary-amd64/Release
+SHA1:
+ cdb1de8dbca6b6b4217d76ad93a9b7740ef5731a 1603 main/binary-amd64/Packages
+ daa68eb3f747890638fdee4c77933b9830999758 743 main/binary-amd64/Packages.gz
+ a16fbf2d48a033a57173e2dc8ca684c5f7cc4b5f 184 main/binary-amd64/Release
+SHA256:
+ 66f7d1dd4eee96e1882aead83608701b2d324d301ce0ede7a78907944db584f9 1603 main/binary-amd64/Packages
+ 8ec52d38be8b1245b46070313f8c3ba26f1b3bb7fb00e28c6c7a463e2b19a9c2 743 main/binary-amd64/Packages.gz
+ 64bd2e90311cfbe92a3abd80cd30fff27d3120f44b81286695aaf219b06448f5 184 main/binary-amd64/Release
