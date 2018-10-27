@@ -28,6 +28,20 @@ SHA1: 1ee06acba5aa532931c5b3820ce797fc643b9dc7
 MD5sum: 8635142abe5eab7d31be938ea8646ab9
 Description: An open and reliable container runtime.
 
+Package: darch-initramfs-tools
+Version: 0.1.0-1
+Architecture: all
+Maintainer: Paul Knopf <pauldotknopf@gmail.com>
+Installed-Size: 13
+Priority: optional
+Section: devel
+Filename: pool/main/d/darch-initramfs-tools/darch-initramfs-tools_0.1.0-1_all.deb
+Size: 2148
+SHA256: 8dacdcc76ec8a40b4f81924f40f8578a9537e0bab504045fd8ab4c6f9e95f056
+SHA1: bccb99ec4ee5ce21f46ee8ea1ff23562f3b159ab
+MD5sum: 355922ef5691ce24d0bccb9b8816f658
+Description: The scripts for initramfs to mount and boot Darch images.
+
 Package: darch-runc
 Version: 1.0.0~rc5-1
 Architecture: amd64
