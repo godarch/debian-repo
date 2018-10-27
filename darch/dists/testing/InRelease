@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: Darch
 Label: Darch Github
 Suite: testing
@@ -18,3 +21,14 @@ SHA256:
  66f7d1dd4eee96e1882aead83608701b2d324d301ce0ede7a78907944db584f9 1603 main/binary-amd64/Packages
  8ec52d38be8b1245b46070313f8c3ba26f1b3bb7fb00e28c6c7a463e2b19a9c2 743 main/binary-amd64/Packages.gz
  016a0292a4b6de4dc13ddb2085cdd08c6c33c99ad30b4fcd7173094363df4bd1 183 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJb09Y/AAoJEEtY6vmNmGwKycYH/RHEQ1r3lvEugX+wtMkiuI3H
+EGcRBzits/dS1OvoAw/APV9r0U5Keytn4uZPZHTWphD76fzA90dSVVNNoi300shF
+vDrntxYGkihk2u/pZK91k881L1dZeXwvw89gqeZAylzL+FzjJ9VmFbrNpMWEGJ0P
+suw0yFE4VJwGcppnm1TfI7GhbzBPiaYCL07NNcRzVIGas08rZ9CbX8PpKfpUKDjg
+CdPh03j7RuGr/08LxWEUArdlEERxbWTVeTZAK7QYUUqJocUF8cR8eLN+FC5QVo5R
+neuvm0QUzkId3AKneDl1gIg2XpguS2Pf/6dCgckMXH1xUZkBA9/7cYqRP4Ct1II=
+=ykAV
+-----END PGP SIGNATURE-----
