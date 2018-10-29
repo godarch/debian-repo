@@ -5,30 +5,30 @@ Origin: Darch
 Label: Darch Github
 Suite: testing
 Codename: testing
-Date: Mon, 29 Oct 2018 07:53:31 UTC
+Date: Mon, 29 Oct 2018 08:46:09 UTC
 Architectures: amd64
 Components: main
 Description: Darch, a tool for building and booting stateless and immutable images, bare metal.
 MD5Sum:
- 7a72c3bba6d9804ca9b344ff8c44b44f 2113 main/binary-amd64/Packages
- 034260b2a09b243ad689d007bc50b132 915 main/binary-amd64/Packages.gz
+ 4ca17d003006cc9bfc44248880df2409 2113 main/binary-amd64/Packages
+ 3326a8a30f7852b7f5ab24f52e825d28 916 main/binary-amd64/Packages.gz
  f75f5eb07059f29cac3c425fe24dec47 183 main/binary-amd64/Release
 SHA1:
- f60e652424053051eb838267bad52518a3a2fc5d 2113 main/binary-amd64/Packages
- 224e0360657b1c62a4c02c6680fb59161b9711fa 915 main/binary-amd64/Packages.gz
+ 1ccb62305f45d442c23060f2e10d768593c10464 2113 main/binary-amd64/Packages
+ 42b0ad61c48f009a5906957320eaa1d6a6846b9d 916 main/binary-amd64/Packages.gz
  415d82cd6b07bf916a870f9ef62e928c72ceb113 183 main/binary-amd64/Release
 SHA256:
- 239c89a44f599fb90747b08c9e54f78a76acd5ab729643e78baccacb246a9906 2113 main/binary-amd64/Packages
- e032579b8fdb033f677c382a570335ff624b39bdc24f5d2c8d4c1d236ab0ee17 915 main/binary-amd64/Packages.gz
+ 19d3f4762c9c20163492203f84ae125afd36785e3635f4df66f8fc1a8d07b646 2113 main/binary-amd64/Packages
+ 90a1a73b02f6227b5c07adf84f4aad7a934f2659da1117a76c45012db2870435 916 main/binary-amd64/Packages.gz
  016a0292a4b6de4dc13ddb2085cdd08c6c33c99ad30b4fcd7173094363df4bd1 183 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJb1rx/AAoJEEtY6vmNmGwKY6kIAIyPbWXebvogoMQFZBO4FduX
-4/cg9H4m4C14Mey5e5Fq8a3SDPubAkhIaFA7bQodLnFb5rxZ7U+Hw7zVFpcs+UGt
-33ziUU7Zx+tqk7A+LeDNDU2EDoGMfiEo/O60mcx2+OWJNJ2VBusmtPje/d/ESPdr
-aBhYyMr4cP384juQBH6jJTT6nz5hq+8MSko7nuhE3Wgp1cRm0gCT2CD91bqVLo+b
-f6anDAeLO2Gaolpx9qLfHg45YE9CWPThVbZyiwXADz6Vh80Rfpv4YbcRR9Kcf8Vt
-KqTS2ZYdRZ+URkyGvSDbLLc8S7IwV6U717+yF6Zhy9irqb1esrkHvmxmZjRE6O8=
-=3+9z
+iQEcBAEBCAAGBQJb1sjUAAoJEEtY6vmNmGwKoGcH/0aDhZJmFd8BMCEpFWPuBjbl
+ryutDHyNlO0bP7S390SasRAYePWUYSN0cFJXUEBGsxkNu7cCmflbqlCxw4kIEwwD
+IvznxwM2DNphpfXBjsjWZf3HJbPFIHM/EiRcEVWoDjFxkMqjw866m1KuZafpDw0h
+s6CsPpcZWZvNm7zNYCwKz/c/ExejKndLJQ5m6HuFDlqvUm07eIJ2NyhMsU/3nvR+
+dGvIHTrIDHIWpHceDlZhPZ/oy1WINdLfk0XAfTIfvnQmdQDBycbR6Qp/Yhc+VWvi
+r+ZZqBs1b9Ij3dknTVr3GmNRkTuF5sOP7wRBp0BEDNSDB5jZkG5jYRloneoibRw=
+=G9+v
 -----END PGP SIGNATURE-----
