@@ -1,16 +1,16 @@
 Package: darch
-Version: 0.24.0-1
+Version: 0.25.0-1
 Architecture: amd64
 Maintainer: Paul Knopf <pauldotknopf@gmail.com>
-Installed-Size: 14383
-Depends: libc6 (>= 2.3.2), darch-containerd
+Installed-Size: 14391
+Depends: libc6 (>= 2.3.2), darch-containerd, grub2-common
 Priority: optional
 Section: devel
-Filename: pool/main/d/darch/darch_0.24.0-1_amd64.deb
-Size: 3781924
-SHA256: e334ccf4dc0a5d2685571c224cb5262754b31a077d3ce76c24d2d588bf2130dd
-SHA1: 90bee9db7660f9bf2e241741b3ba4d44462665a4
-MD5sum: 555a14569acf0a373742ef103cc91483
+Filename: pool/main/d/darch/darch_0.25.0-1_amd64.deb
+Size: 3776444
+SHA256: c67a49c51517c7917e6cef937c1f0a87ed0f65b133a270a77006f2376ebb1358
+SHA1: a41a32baa7469eea420a6b09f2efeb57f0265838
+MD5sum: 5971b5e1d1d86c554eac114c8b75277e
 Description: A tool for building and booting stateless and immutable images, bare metal.
 
 Package: darch-containerd

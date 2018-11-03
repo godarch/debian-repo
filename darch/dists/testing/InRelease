@@ -5,30 +5,30 @@ Origin: Darch
 Label: Darch Github
 Suite: testing
 Codename: testing
-Date: Mon, 29 Oct 2018 08:46:09 UTC
+Date: Sat, 03 Nov 2018 23:00:26 UTC
 Architectures: amd64
 Components: main
 Description: Darch, a tool for building and booting stateless and immutable images, bare metal.
 MD5Sum:
- 4ca17d003006cc9bfc44248880df2409 2113 main/binary-amd64/Packages
- 3326a8a30f7852b7f5ab24f52e825d28 916 main/binary-amd64/Packages.gz
+ 0c65dd1c23e910e743f0a9c0cba1312c 2127 main/binary-amd64/Packages
+ 781bdc4a93ad5aa4fee4ea7bf36cfd59 925 main/binary-amd64/Packages.gz
  f75f5eb07059f29cac3c425fe24dec47 183 main/binary-amd64/Release
 SHA1:
- 1ccb62305f45d442c23060f2e10d768593c10464 2113 main/binary-amd64/Packages
- 42b0ad61c48f009a5906957320eaa1d6a6846b9d 916 main/binary-amd64/Packages.gz
+ 6c8168c21143e5672e5a584133b613456e0fb860 2127 main/binary-amd64/Packages
+ 1ba03e6c3d5b6fbe8ad5ba8f59cbc472a383d599 925 main/binary-amd64/Packages.gz
  415d82cd6b07bf916a870f9ef62e928c72ceb113 183 main/binary-amd64/Release
 SHA256:
- 19d3f4762c9c20163492203f84ae125afd36785e3635f4df66f8fc1a8d07b646 2113 main/binary-amd64/Packages
- 90a1a73b02f6227b5c07adf84f4aad7a934f2659da1117a76c45012db2870435 916 main/binary-amd64/Packages.gz
+ 2f3587adaeae8c9e6eb093149c8e303585a8025f01eb475e0863138b3ea68878 2127 main/binary-amd64/Packages
+ 8423bbd8803fadfad6bd062cd92c5388fcbad6350911b10562846d73b02df959 925 main/binary-amd64/Packages.gz
  016a0292a4b6de4dc13ddb2085cdd08c6c33c99ad30b4fcd7173094363df4bd1 183 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJb1sjUAAoJEEtY6vmNmGwKoGcH/0aDhZJmFd8BMCEpFWPuBjbl
-ryutDHyNlO0bP7S390SasRAYePWUYSN0cFJXUEBGsxkNu7cCmflbqlCxw4kIEwwD
-IvznxwM2DNphpfXBjsjWZf3HJbPFIHM/EiRcEVWoDjFxkMqjw866m1KuZafpDw0h
-s6CsPpcZWZvNm7zNYCwKz/c/ExejKndLJQ5m6HuFDlqvUm07eIJ2NyhMsU/3nvR+
-dGvIHTrIDHIWpHceDlZhPZ/oy1WINdLfk0XAfTIfvnQmdQDBycbR6Qp/Yhc+VWvi
-r+ZZqBs1b9Ij3dknTVr3GmNRkTuF5sOP7wRBp0BEDNSDB5jZkG5jYRloneoibRw=
-=G9+v
+iQEcBAEBCAAGBQJb3iiNAAoJEEtY6vmNmGwKgHsIAIvaMGDW3wREhLZK8ism+WZ0
+DyUG5id0ogPKAx7mCnPxdzXRjlN5/YKBLmqIdFkdfo76pOzlMcbDHx3GafRReqAe
+eEi75hp9fh2L4tYmQjm0x2P0ThtfBJs1kRtIzG1ZJI93PdggGxRqtosdpqnwFZlX
+PiuXwaS5ysiM4Ekyo48ZwuLMyBy6n66I72uL3y+XYQyPqtUbCipB66gIBMNn7+CM
+vWC2Kh7S/577oGi/tyMvHKJWKFgFgq/a6p3fiuHxtUYjmodTVgLKme3nCH7IkYPR
+DwngiG4lI0I0Mz53qhZPgx3Ldd86KXQV1kqgMamGFAO1yIFe1mBuF/1sUSL219U=
+=5tAV
 -----END PGP SIGNATURE-----
