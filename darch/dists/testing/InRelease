@@ -5,30 +5,30 @@ Origin: Darch
 Label: Darch Github
 Suite: testing
 Codename: testing
-Date: Sun, 04 Nov 2018 17:42:32 UTC
+Date: Sun, 02 Dec 2018 09:56:03 UTC
 Architectures: amd64
 Components: main
 Description: Darch, a tool for building and booting stateless and immutable images, bare metal.
 MD5Sum:
- d4f05d7baf9523d52b2363a89e1fb662 2127 main/binary-amd64/Packages
- 630156c8499ceae79a2e582c9e4e386c 929 main/binary-amd64/Packages.gz
+ 70e3808bc16e7cf2fe1fa8c7fba8d08c 2127 main/binary-amd64/Packages
+ 203e3a1366facdae3d3a18e438325528 925 main/binary-amd64/Packages.gz
  f75f5eb07059f29cac3c425fe24dec47 183 main/binary-amd64/Release
 SHA1:
- b3ac0362adbe701bffbc36bd2b62bdacd3d99f32 2127 main/binary-amd64/Packages
- 785830b1cb59a623a5a2f3675ce3e5fd233b9903 929 main/binary-amd64/Packages.gz
+ 6c32b3601d86851e89a141f21966cddcbd239240 2127 main/binary-amd64/Packages
+ c62e3372f98c24d9b799cfeaf74699164f5e3b66 925 main/binary-amd64/Packages.gz
  415d82cd6b07bf916a870f9ef62e928c72ceb113 183 main/binary-amd64/Release
 SHA256:
- e21aabbc08a2f64cd4eb05140c495a7fe5603a84f841884fed6a8837cdfc518f 2127 main/binary-amd64/Packages
- 487933fe541e28baf8186da6b08f9a04759e09ad3bddb31a8b003c9df86e603f 929 main/binary-amd64/Packages.gz
+ 2a9f7068a4b6f6349932432ab001bf509aa12a57641cbc4abf1f872659d3b417 2127 main/binary-amd64/Packages
+ 50908aa6d8a3061207006097cbed08dab356e190fa2ac48c19bb9593e98fe963 925 main/binary-amd64/Packages.gz
  016a0292a4b6de4dc13ddb2085cdd08c6c33c99ad30b4fcd7173094363df4bd1 183 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEhM252m7RZCU1GfkbS1jq+Y2YbAoFAlvfL40ACgkQS1jq+Y2Y
-bArWeAgAoKlOSw0pfXtwAVAUHXSZcb3ZCKB2DzWcbonMXwummMmmyqbRJuWvKrRs
-lyLQbrPWWUnr8jCJ1sOAJ/hVyRezP5XM+yqfLfjEp0mrBCcIJtSkSY+ygd7OO6Ct
-RYENXVQFC7jMkg3w60JCS9n5xYZOMerVQB9whtgcVJMCQVRHkKxC+2RfOlUaUO1S
-1Vq0fu/JdJvfRZN9sPAOzB+fT5ev22Kg2NawV2m+iLO1/3vmX6tpxh7L/+34GXH/
-5WTo9rLTtWIKf893NOU/wNjZdfKm5TT4Qj/aQ9HHJswrplx82OIhjak4AA/4PLDo
-YFSVnPnVCyPmFkfp8nASY5Xn0bfYzg==
-=KJ9N
+iQEzBAEBCgAdFiEEhM252m7RZCU1GfkbS1jq+Y2YbAoFAlwDrDQACgkQS1jq+Y2Y
+bAr8Agf+L0tmzINHzqfwQi5G/2gwpjjOnDTjs3U1gQrE3mi2Q2vCk3IOrtvsIjTy
+eiQ27cP0SY17mIKnRxvyYB8QAukiV/QXWks+iIrGAf9WqF4sl8/9uqe3J0OFkNl/
+Ox51FiOWW0YXMfWX8DmqTuCbFOFR224ii7f3TFXVlkLzm/x+97yBaYGygSVRYYVo
+KOOgS6NQwZ09d8BF7rjPBFoY912H4XRrY6rDdTXAL6Kaxz9S0UcevdD9+Qu07Cnn
+ecyCHPZ5A3FBp9uyhbx1ATlOKI4G3O/2T/vRZHr0JGW6/xqRbVh9BoLHFhxh5ZYc
+yL43Dq21X3R6vxfWm8lTgL+/yDHijA==
+=R3HX
 -----END PGP SIGNATURE-----

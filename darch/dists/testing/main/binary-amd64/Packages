@@ -1,16 +1,16 @@
 Package: darch
-Version: 0.26.3-1
+Version: 0.27.0-1
 Architecture: amd64
 Maintainer: Paul Knopf <pauldotknopf@gmail.com>
-Installed-Size: 14391
+Installed-Size: 14395
 Depends: libc6 (>= 2.3.2), darch-containerd, grub2-common
 Priority: optional
 Section: devel
-Filename: pool/main/d/darch/darch_0.26.3-1_amd64.deb
-Size: 3778424
-SHA256: f6549461eb3a1f100375e6f03a4c0834c13d31ab9546c808792f27cf67791ea0
-SHA1: 2f26a820bc1b3ce3f34bafe399078cd1ff78c5aa
-MD5sum: 894648985bc85448f9dce69547c83d81
+Filename: pool/main/d/darch/darch_0.27.0-1_amd64.deb
+Size: 3777516
+SHA256: 3afb5976aa6526753a042499e2108df7bc76f395872bb88feacabd5c3f487c8a
+SHA1: 257927643fc1789eab85355a2089cff6eae29cf2
+MD5sum: 79a702fdb73315ef0b09b107f35c08e3
 Description: A tool for building and booting stateless and immutable images, bare metal.
 
 Package: darch-containerd
@@ -29,18 +29,18 @@ MD5sum: 8635142abe5eab7d31be938ea8646ab9
 Description: An open and reliable container runtime.
 
 Package: darch-initramfs-tools
-Version: 0.3.0-1
+Version: 0.4.0-1
 Architecture: all
 Maintainer: Paul Knopf <pauldotknopf@gmail.com>
 Installed-Size: 14
 Depends: busybox
 Priority: optional
 Section: devel
-Filename: pool/main/d/darch-initramfs-tools/darch-initramfs-tools_0.3.0-1_all.deb
-Size: 2388
-SHA256: 3a80b209ac1a3a64de5ebde1fa5fd768c303c1346d2f412122b2bc5a02a64442
-SHA1: 8d23dd47008e8c4e2cd2e9d860983dd298ff940e
-MD5sum: 7ef5904040ad16f653e89ece6f0095b0
+Filename: pool/main/d/darch-initramfs-tools/darch-initramfs-tools_0.4.0-1_all.deb
+Size: 2456
+SHA256: dbde74bb7c4e17b561febe1b9b0b74eecc25aee942bfd4ea177331eaa6232031
+SHA1: d73736c0c1f1b7c5f04e9863be9df5d07be63b0b
+MD5sum: 0a7fb275e6df92fffd32b5255025e52c
 Description: The scripts for initramfs to mount and boot Darch images.
 
 Package: darch-runc
