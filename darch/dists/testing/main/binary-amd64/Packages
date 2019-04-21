@@ -1,3 +1,22 @@
+Package: containerd.io
+Version: 1.2.5-1
+Architecture: amd64
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 85773
+Depends: libc6 (>= 2.17), libseccomp2 (>= 2.3.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Provides: containerd, runc
+Homepage: https://containerd.io
+Priority: optional
+Section: devel
+Filename: pool/main/c/containerd.io/containerd.io_1.2.5-1_amd64.deb
+Size: 19930786
+SHA256: 86b6a956e2b1bb9aea0c97d9ee33f5662bffc223a953622a30fc74c9165db541
+SHA1: d8744cfb960105bd731d748748d29b210fa4a48c
+MD5sum: 1fe8fe63bcb1cfa2533c124165820323
+Description: An open and reliable container runtime
+
 Package: darch
 Version: 0.28.0-1
 Architecture: amd64
