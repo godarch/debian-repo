@@ -2,19 +2,19 @@ Origin: Darch
 Label: Darch Github
 Suite: testing
 Codename: testing
-Date: Sun, 02 Dec 2018 09:56:03 UTC
+Date: Sun, 21 Apr 2019 17:38:29 UTC
 Architectures: amd64
 Components: main
 Description: Darch, a tool for building and booting stateless and immutable images, bare metal.
 MD5Sum:
- 70e3808bc16e7cf2fe1fa8c7fba8d08c 2127 main/binary-amd64/Packages
- 203e3a1366facdae3d3a18e438325528 925 main/binary-amd64/Packages.gz
+ b52b6364753bb6d7be229ff908a37b1d 2124 main/binary-amd64/Packages
+ dcda9c665767586e6acd4119b11abce7 929 main/binary-amd64/Packages.gz
  f75f5eb07059f29cac3c425fe24dec47 183 main/binary-amd64/Release
 SHA1:
- 6c32b3601d86851e89a141f21966cddcbd239240 2127 main/binary-amd64/Packages
- c62e3372f98c24d9b799cfeaf74699164f5e3b66 925 main/binary-amd64/Packages.gz
+ cffe0a511fe24ed185b26b6626308bb972334d1c 2124 main/binary-amd64/Packages
+ 7fa2875096cc624c84a11ac1191852b68a5aeb24 929 main/binary-amd64/Packages.gz
  415d82cd6b07bf916a870f9ef62e928c72ceb113 183 main/binary-amd64/Release
 SHA256:
- 2a9f7068a4b6f6349932432ab001bf509aa12a57641cbc4abf1f872659d3b417 2127 main/binary-amd64/Packages
- 50908aa6d8a3061207006097cbed08dab356e190fa2ac48c19bb9593e98fe963 925 main/binary-amd64/Packages.gz
+ 59524c1238ae8c61a5ccdac8c5a309175f690d0d51c37e8f9645b3bf36c841f4 2124 main/binary-amd64/Packages
+ e1c95b761dedd30ed91d2af3130cb3bfb7830c5d757fea4cfca025d9092aef8f 929 main/binary-amd64/Packages.gz
  016a0292a4b6de4dc13ddb2085cdd08c6c33c99ad30b4fcd7173094363df4bd1 183 main/binary-amd64/Release
